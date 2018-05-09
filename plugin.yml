@@ -1,0 +1,12 @@
+main: io.github.bagasthebird.roulettez.Roulette
+name: RouletteZ
+version: 1.0
+author: BagasMC
+depend: []
+description: Gambling plugin
+commands:
+  roulette:
+    description: Open the roulette GUI.
+    usage: /roulette
+    permission: roulette.play
+    permission-message: You don't have the roulette.roulette permission.

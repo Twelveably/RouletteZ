@@ -1,0 +1,32 @@
+# Change the prize multipliers here.
+
+Green: 5
+Red: 1.5
+Black: 1.5
+
+# Here you edit the betting options.
+
+Option1: 100
+Option2: 1000
+Option3: 10000
+Option4: 100000
+
+Option1Info: '&6&lAdd 100'
+Option2Info: '&6&lAdd 1000'
+Option3Info: '&6&lAdd 10000'
+Option4Info: '&6&lAdd 100000'
+
+OptionNotEnough: '&c&lNot enough money.'
+
+
+# Localizations
+
+GUIName: '&lRoulette'
+InfoMakeBet: '&aClick &6&lPush bet &ato join in.'
+InfoAlert: '&cYou have to make a bet to join in.'
+InfoSpinning: '&c&lSpinning'
+InfoStatus: '&f&6&lStatus'
+InfoPushBet: '&6&lPush bet'
+InfoPushBetDesc1: '&7&lRight Click  - &c&lRED'
+InfoPushBetDesc2: '&7&lMiddle Click - &a&lGREEN'
+InfoPushBetDesc3: '&7&lLeft Click   - &8&lBLACK'
