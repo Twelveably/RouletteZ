@@ -24,7 +24,6 @@ public class RouletteCommand implements CommandExecutor {
 		if (sender instanceof Player) {
 
 			Player player = (Player) sender;
-			String name = player.getName();
 			
 			try {
 				player.openInventory(RouletteAPI.createInventory(player));
